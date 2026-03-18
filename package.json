@@ -1,0 +1,14 @@
+{
+  "name": "kaury-vote-alert",
+  "version": "1.0.0",
+  "description": "Bot Discord d'alertes de vote pour serveur Minecraft",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}

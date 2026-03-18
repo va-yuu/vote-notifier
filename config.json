@@ -1,0 +1,28 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "voteSites": [
+    {
+      "id": "serveur-prive",
+      "name": "Serveur-Prive.net",
+      "baseUrl": "https://serveur-prive.net/minecraft/astralrealms/vote?username=",
+      "cooldown": 5400000,
+      "cooldownDisplay": "1h30"
+    },
+    {
+      "id": "serveur-minecraft",
+      "name": "Serveur-Minecraft.com",
+      "baseUrl": "https://serveur-minecraft.com/5123?username=",
+      "cooldown": 5400000,
+      "cooldownDisplay": "1h30"
+    },
+    {
+      "id": "serveursminecraft",
+      "name": "ServeurMinecraft.org",
+      "baseUrl": "https://www.serveursminecraft.org/serveur/7448/",
+      "cooldown": 86400000,
+      "cooldownDisplay": "24h"
+    }
+  ]
+}
