@@ -28,7 +28,7 @@ Edit `config.json` before the first launch.
   "guildId": "<guild-id>",
   "voteSites": [
     {
-      "id": "your-discird-id",
+      "id": "your-discord-id",
       "name": "Site Name",
       "baseUrl": "https://example.com/vote?username=",
       "cooldown": 5400000,
